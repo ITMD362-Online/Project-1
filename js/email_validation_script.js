@@ -3,6 +3,7 @@ function ValidateEmail(inputText)
 var mailformat = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/;
 if(inputText.value.match(mailformat))
 {
+alert("Welcome to our Newsletter!");
 document.signup.email();
 return true;
 }
