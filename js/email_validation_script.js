@@ -1,9 +1,15 @@
-function ValidateEmail(email) 
+function ValidateEmail(inputText)
 {
- if (/^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/.test(signup.email))
-  {
-    return (true)
-  }
-    alert("Invalid Email Address")
-    return (false)
+var mailformat = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/;
+if(inputText.value.match(mailformat))
+{
+document.signup.email();
+return true;
+}
+else
+{
+alert("Invalid Email Address");
+document.signup.email.focus();
+return false;
+}
 }
