@@ -8,7 +8,7 @@ return true;
 }
 else
 {
-alert("Invalid Email Address");
+alert("Invalid Email Address. Please try again.");
 document.signup.email.focus();
 return false;
 }
