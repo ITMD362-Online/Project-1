@@ -5,8 +5,8 @@ html {
 }
 
 body {
-  background-color: #2b5f88;
-  color: #d8e7f3
+  background-color: #193473;
+  color: #301B76
 }
 
 h1 {
@@ -35,7 +35,7 @@ input {
 
 input[type=join] {
  width: 11.089em;
- background-color: #4CAF50;
+ background-color: #0D6767;
   color: white;
   padding: 1em 1.618em; /*16px 25.88px*/
   border: none;
@@ -48,7 +48,7 @@ input[type=join] {
 /*Tablets*/
 @media only screen and (min-width: 768px) {
   body {
-    background-color: blue;
+    background-color: #46609B;
   }
   
   input {width:300px;}
@@ -62,7 +62,7 @@ input[type=join] {
 /*Desktop*/
 @media only screen and (min-width: 992px) {
   body {
-    background-color: blue;
+    background-color: #2B488C;
   }
   
   input {width:300px;}
