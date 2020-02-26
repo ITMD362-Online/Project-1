@@ -41,7 +41,19 @@ input[type=submit] {
 }
 
 
+/*Tablets*/
+@media only screen and (min-width: 768px) {
+  body {
+    background-color: blue;
+  }
+  
+  input {width:300px;}
 
+  label {
+    width: 10%;
+    float:left;
+  }
+}
 
 /*Desktop*/
 @media only screen and (min-width: 992px) {
