@@ -14,9 +14,8 @@ h1 {
 }
 
 #container {
-  width: 100%;
+  width: 90%;
   margin:auto;
-  padding: 1em;
 }
 
 label {
