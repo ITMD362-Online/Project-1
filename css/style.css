@@ -21,13 +21,14 @@ label {
   display:block;
   box-sizing:border-box;
   margin:auto;
+  width: 100%;
 }
 
 input {
   display: block;
   box-sizing: border-box;
   margin:auto;
-  width: 90%;
+  width: 100%;
   border: 1px solid #ccc;
   border-radius: 4px;
   resize: vertical;
