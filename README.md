@@ -1,4 +1,4 @@
-# Project-1
+# Andreas Vassilakos: Project 1
 
 
 ## Project Description
