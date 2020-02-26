@@ -34,7 +34,7 @@ input {
   resize: vertical;
 }
 
-input[type=submit] {
+input[type=join] {
  width: 10em;
  background-color: #4CAF50;
   color: white;
