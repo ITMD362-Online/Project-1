@@ -10,14 +10,14 @@
 <body>
   <h1>Tech Newsletter Sign-Up</h1>
   <div id="container">
-    <form>
-      <label for="name">First Name:</label>
-      <input id="name" type="text" name="firstname">
-      <label for="name">Last Name:</label>
-      <input id="name" type="text" name="lastname">
-      <label for="name">Email:</label>
-      <input id="name" type="text" name="email">
-      <input type="submit" value="Join">
+    <form name='sign-up'>
+      <label for="fname">First Name:</label>
+      <input id="fname" type="text" name="firstname">
+      <label for="lname">Last Name:</label>
+      <input id="lname" type="text" name="lastname">
+      <label for="email">Email:</label>
+      <input id="email" type="text" name="email">
+      <input type="submit" value="Join" onclick="ValidateEmail(document.sign-up.email)">
     </form> 
   </div>
 </body>
