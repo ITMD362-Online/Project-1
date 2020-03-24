@@ -35,7 +35,7 @@ label {
   box-sizing:border-box;
   margin:auto;
   width: 100%;
-  background-color: red;
+  background-color: purple;
   margin-top:1.5em;
 }
 
@@ -76,7 +76,7 @@ input[type=submit] {
 
   label {
     width: 6em;
-    float:left;
+    float:center;
   }
  
   /*
@@ -97,7 +97,7 @@ input[type=submit] {
 
   label {
     width: 10%;
-    float:left;
+    float:center;
   }
 }
 
