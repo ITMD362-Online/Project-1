@@ -27,6 +27,7 @@ h1 {
   display:block;
   box-sizing:border-box;
   padding:1em;
+  margin-top:1.5em;
 }
 
 label {
@@ -34,7 +35,7 @@ label {
   box-sizing:border-box;
   margin:auto;
   width: 100%;
-  background-color: yellow;
+  background-color: red;
   margin-top:1.5em;
 }
 
