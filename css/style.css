@@ -64,7 +64,7 @@ input[type=submit] {
     background-color: #46609B;
   }
   
-  input {width:300px;}
+  input {width:50%;}
 
   label {
     width: 10%;
@@ -85,7 +85,7 @@ input[type=submit] {
     background-color: #2B488C;
   }
   
-  input {width:300px;}
+  input {width:40%;}
 
   label {
     width: 10%;
