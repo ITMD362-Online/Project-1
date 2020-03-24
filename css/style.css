@@ -34,7 +34,8 @@ label {
   box-sizing:border-box;
   margin:auto;
   width: 100%;
-  background-color: red;
+  background-color: yellow;
+  margin-top:1.5em;
 }
 
 input {
