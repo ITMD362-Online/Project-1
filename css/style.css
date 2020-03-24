@@ -64,6 +64,12 @@ input[type=submit] {
     width: 10%;
     float:left;
   }
+  
+  #submit {
+    border: 1px solid;
+    /*padding: 10px; */
+    box-shadow: 5px 10px #888888;
+  }
 }
 
 /*Desktop*/
