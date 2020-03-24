@@ -16,6 +16,8 @@ body {
 
 h1 {
   font-size: 4.236em; /* 67.773px */
+  display:block;
+  box-sizing:border-box;
 }
 
 #container {
