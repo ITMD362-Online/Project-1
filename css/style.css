@@ -4,10 +4,10 @@ html {
   font-size: 16px;
 }
 
-  #submit {
-    border: 1px solid;
-    box-shadow: 2.5px 5px #595178;
-  }
+#submit {
+  border: 1px solid;
+  box-shadow: 2.5px 5px #595178;
+}
 
 body {
   background-color: #193473;
