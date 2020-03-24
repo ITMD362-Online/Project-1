@@ -4,6 +4,11 @@ html {
   font-size: 16px;
 }
 
+  #submit {
+    border: 1px solid;
+    box-shadow: 2.5px 5px #595178;
+  }
+
 body {
   background-color: #193473;
   color: white
@@ -64,12 +69,14 @@ input[type=submit] {
     width: 10%;
     float:left;
   }
-  
+ 
+  /*
   #submit {
     border: 1px solid;
     box-shadow: 5px 10px #888888;
-  }
+  } */
 }
+  
 
 /*Desktop*/
 @media only screen and (min-width: 992px) {
