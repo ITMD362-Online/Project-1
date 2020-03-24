@@ -40,7 +40,7 @@ input {
   width: 100%;
   border: 1px solid #ccc;
   border-radius: 4px;
-  /*resize: vertical; */
+  resize: vertical;
   margin-top: 1.5em;
 }
 
