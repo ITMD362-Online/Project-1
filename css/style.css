@@ -53,7 +53,7 @@ input[type=submit] {
   border: none;
   border-radius: 0.236em; /* 3.777px */
   cursor: pointer;
-  
+  margin-top: 1em;
 }
 
 
