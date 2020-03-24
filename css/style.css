@@ -27,17 +27,21 @@ h1 {
 }
 
 label {
+  /*
   display:block;
   box-sizing:border-box;
   margin:auto;
+  */
   width: 100%;
   background-color: red;
 }
 
 input {
+  /*
   display: block;
   box-sizing: border-box;
   margin:auto;
+  */
   padding: 0.9em;
   width: 100%;
   border: 1px solid #ccc;
