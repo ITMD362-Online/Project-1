@@ -7,9 +7,9 @@ You will create a single-page design that features a sign-up process to get new 
 
 ## Project Goals
 
-    Create a mobile-first responsive web design using two media queries
-    Apply design principles including typography, color, and material design
-    Engage in agile, iterative development; documented with at least 20 commits with informative comments
+    * Create a mobile-first responsive web design using two media queries
+    * Apply design principles including typography, color, and material design
+    * Engage in agile, iterative development; documented with at least 20 commits with informative comments
 
 ## Deliverables & Milestones
 
@@ -23,11 +23,11 @@ You will create a single-page design that features a sign-up process to get new 
 
 ## Requirements
 
-    Project must be built with only one valid well-formed HTML file, one css reset file, one user CSS file, and one JavaScript file.
-    All source files in UTF-8/Unicode character encoding.
-    Do not use any pre-build code or frameworks. Write it all from scratch.
-    HTML, CSS, and JavaScript files should both be indented with 2 spaces per level of indent; indent all CSS style rules inside the declaring block, and further indent all rules and blocks inside your media queries
-    Must pass HTML and CSS validators!
+    * Project must be built with only one valid well-formed HTML file, one css reset file, one user CSS file, and one JavaScript file.
+    * All source files in UTF-8/Unicode character encoding.
+    * Do not use any pre-build code or frameworks. Write it all from scratch.
+    * HTML, CSS, and JavaScript files should both be indented with 2 spaces per level of indent; indent all CSS style rules inside the declaring block, and further indent all rules and blocks inside your media queries
+    * Must pass HTML and CSS validators!
 
 
 **HTML requirements:**
